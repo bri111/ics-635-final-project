@@ -1,0 +1,7 @@
+=== LightGBM Tuning Results ===
+Best f1_macro:  0.710343
+Best hyperparams: {'max_depth': 11, 'learning_rate': 0.06251618447178423, 'n_estimators': 1343, 'reg_alpha': 2.9458900559336887, 'reg_lambda': 2.509133418071939, 'subsample': 0.6411898796106348, 'colsample_bytree': 0.4700216652723274, 'num_leaves': 68}
+
+=== XGBoost Tuning Results ===
+Best f1_macro:  0.706810
+Best hyperparams: {'max_depth': 11, 'learning_rate': 0.1704652303256462, 'n_estimators': 542, 'gamma': 0.9572454224852166, 'min_child_weight': 3, 'subsample': 0.9445756266377541, 'colsample_bytree': 0.8754116315336201}
