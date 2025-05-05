@@ -1,0 +1,16 @@
+kaggle
+ucimlrepo
+pandas
+numpy
+scikit-learn
+optuna
+xgboost
+lightgbm
+imbalanced-learn
+scipy
+matplotlib
+seaborn
+tensorflow
+sklearn-pandas   
+catboost  
+kagglehub
